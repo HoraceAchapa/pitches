@@ -1,0 +1,116 @@
+.min{
+  font-size:30px;
+}
+.posts{
+  font-family: 'Lobster', cursive;
+}
+.intro{
+  font-family: 'Lobster', cursive;
+}
+.navbar{
+  font-family: 'Lobster', cursive;
+}
+.container-full{
+  background-position:center;
+  background-color: rgb(134, 148, 148);
+  height:100%;
+
+}
+.overlay{
+  background-color: black;
+  opacity: 0.9;
+  height: auto;
+  width: 100%;
+}
+.login{
+  padding-top: 12%;
+  font-family: 'Lobster', cursive;
+
+}
+.login h1{
+  color:rgb(0, 255, 242);
+  font-family: georgia;
+  text-transform: uppercase;
+  font-family: 'Lobster', cursive;
+
+}
+.login p{
+  color: wheat;
+  font-family: georgia;
+  font-size: 18px;
+}
+.login input{
+  background-color: transparent;
+  border-radius:10px;
+  border:1px solid rgb(0, 255, 191);
+  height:25%;
+  color:white;
+  color:white;
+  padding: 7px;
+  box-shadow: none;
+}
+.login a{
+  text-decoration-line: none;
+}
+::placeholder{
+  color:white;
+  font-size: 14px;
+  margin-left:5%;
+  font-family: 'Lobster', cursive;
+
+}
+#signup{
+  text-decoration-line: none;
+  color:aqua;
+  font-family: 'Lobster', cursive;
+
+}
+.create h3{
+  color:rgb(0, 255, 170);
+  font-family: 'Lobster', cursive;
+
+}
+#cpitch{
+  color:rgb(0, 255, 242);
+  font-family: 'Lobster', cursive;
+
+}
+#submit{
+height:7%;
+border-radius:10px;
+text-transform: uppercase;
+}
+.link{
+  font-family: 'Lobster', cursive;
+}
+.welcome{
+  margin-top: 5%;
+}
+.error{
+  margin-top:4%;
+  color:white;
+  font-family: 'Lobster', cursive;
+
+}
+.items{
+  font-family: 'Lobster', cursive;
+  margin-top:5%;
+}
+.profile{
+  margin-top:10%;
+  font-family: 'Lobster', cursive;
+}
+.pitch_post{
+  padding-top:4%;
+  background-color: white;
+}
+#vote1{
+  color:rgb(0, 255, 242);
+}
+#vote2{
+  color:rgb(0, 255, 242);
+}
+#comment{
+  padding:2%;
+  background-color: none;
+}
